@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Preferences</string>
+
+    <string-array name="text_style">
+        <item>что-то</item>
+        <item>что-то другое</item>
+        <item>нечто особенное</item>
+        <item>что-нибудь</item>
+    </string-array>
+
+</resources>
